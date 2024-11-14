@@ -1,0 +1,9 @@
+# Getting numbers from the user
+num1 = int(input("Please enter a number: "))
+num2 = int(input("Please enter another number: "))
+
+addition = num1 + num2 # Addition
+subtraction = num1 - num2 # Subtraction
+multiplication = num1 * num2 # Multiplication
+
+print("Addition:", addition, ", Subtraction:", subtraction, ", Multiplication:", multiplication)
